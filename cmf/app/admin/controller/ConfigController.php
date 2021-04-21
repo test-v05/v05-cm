@@ -47,7 +47,7 @@ class ConfigController extends AdminBaseController
                 $data_info['hotList']['ips'] = $parm['hotList'];
             }
             $datas = encrypt_info(json_encode($data_info));
-            $res = file_put_contents('/configList.json',$datas);
+            $res = file_put_contents('configList.json',$datas);
             if($res!==false) {
                 return json(["code"=>1,"message"=>"保存成功"]);
             }
@@ -58,7 +58,7 @@ class ConfigController extends AdminBaseController
      */
     public function excels()
     {
-        $filepath =  '/configList.json';
+        $filepath =  'configList.json';
         header('Content-Description: File Transfer');
         header('Content-Type: application/octet-stream');
         header('Content-Disposition: attachment; filename='.basename($filepath));

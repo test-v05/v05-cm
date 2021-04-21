@@ -1,0 +1,4 @@
+[2021-04-21T10:15:50+08:00][error] [0]语法错误: unexpected '', expecting endswitch (T_ENDSWITCH) or case (T_CASE) or default (T_DEFAULT)
+[2021-04-21T10:15:52+08:00][error] [0]语法错误: unexpected '', expecting endswitch (T_ENDSWITCH) or case (T_CASE) or default (T_DEFAULT)
+[2021-04-21T10:16:43+08:00][error] [0]语法错误: unexpected end of file
+[2021-04-21T10:17:03+08:00][error] [0]语法错误: unexpected end of file

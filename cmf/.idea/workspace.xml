@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f2e263a-91b8-48ec-8f31-b47eee8da946" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1862330321">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.0" value="8" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="env" value="2" />
+          <entry key="htaccess" value="1" />
+          <entry key="html" value="56" />
+          <entry key="js" value="8" />
+          <entry key="json" value="1" />
+          <entry key="lock" value="1" />
+          <entry key="php" value="148" />
+          <entry key="think" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="56" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="8" />
+          <entry key="PHP" value="149" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="htaccess" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="env" value="8" />
+          <entry key="html" value="612" />
+          <entry key="js" value="4" />
+          <entry key="php" value="3743" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="612" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PHP" value="3743" />
+          <entry key="PLAIN_TEXT" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1081960442">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.0" value="15" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="5" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="env" value="1" />
+          <entry key="html" value="40" />
+          <entry key="js" value="1" />
+          <entry key="json" value="30" />
+          <entry key="php" value="79" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="40" />
+          <entry key="JSON" value="30" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PHP" value="79" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="1656" />
+          <entry key="json" value="2" />
+          <entry key="php" value="2296" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1656" />
+          <entry key="JSON" value="2" />
+          <entry key="PHP" value="2296" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1954894342">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="12" />
+          <entry key="php" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="12" />
+          <entry key="PHP" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="86" />
+          <entry key="php" value="93" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="86" />
+          <entry key="PHP" value="93" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>User</find>
+      <find>lists</find>
+      <find>$user_statuses</find>
+      <find>$users</find>
+      <find>$page</find>
+      <find>createdTime</find>
+      <find>span</find>
+      <find>setField</find>
+      <find>{&quot;httpList&quot;:{&quot;ips&quot;:&quot;http:\/\/login.lemaitrading.cn\/,http:\/\/login.5mh1oqm.cn\/&quot;,&quot;ports&quot;:&quot;&quot;},&quot;loginList&quot;:{&quot;ips&quot;:&quot;login.5mh1oqm.cn,login.lemaitrading.cn&quot;,&quot;ports&quot;:&quot;8001,8002,8003,8004,8005,8006,8007,8008&quot;},&quot;hotList&quot;:{&quot;ips&quot;:&quot;http:\/\/hotcdn.tiaoguoshi.cn\/debugv04\/&quot;,&quot;ports&quot;:&quot;&quot;}}</find>
+      <find>get_nump</find>
+      <find>get_t</find>
+      <find>.do</find>
+      <find>ThinkCMF</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.action</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\phpstudy_pro\WWW\ThinkCMF</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api/demo/command/Crypt.php" />
+        <option value="$PROJECT_DIR$/data/config/config.php" />
+        <option value="$PROJECT_DIR$/api/demo/common.php" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/qyq/get_uid_bygroup.html" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/journal/kclist_info.html" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/journal/journal_log.html" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/statistics/daily_stat.html" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/statistics/daily_stat_qyq.html" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/statistics/onlin_curve.html" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/qyq/get_hhr_data.html" />
+        <option value="$PROJECT_DIR$/public/api.php" />
+        <option value="$PROJECT_DIR$/data/config/app.php" />
+        <option value="$PROJECT_DIR$/api/demo/controller/JournalController.php" />
+        <option value="$PROJECT_DIR$/api/demo/route.php" />
+        <option value="$PROJECT_DIR$/api/demo/controller/QyqController.php" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/qyq/add_qyq.html" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/qyq/qyq_detail.html" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/users/lists.html" />
+        <option value="$PROJECT_DIR$/app/admin/controller/UsersController.php" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/statistics/add_data.html" />
+        <option value="$PROJECT_DIR$/../12121/jnqpagent/agent/application/api/common.php" />
+        <option value="$PROJECT_DIR$/../../vue/cra/index.js" />
+        <option value="$PROJECT_DIR$/../../vue/cra/index1.js" />
+        <option value="$PROJECT_DIR$/../../vue/cra/index2.js" />
+        <option value="$PROJECT_DIR$/app/admin/controller/JournalController.php" />
+        <option value="$PROJECT_DIR$/api/demo/controller/StatisticsController.php" />
+        <option value="$USER_HOME$/Desktop/StatisticsController.php" />
+        <option value="$USER_HOME$/Desktop/configList.json" />
+        <option value="$USER_HOME$/Desktop/index.html" />
+        <option value="$USER_HOME$/Desktop/新建文件夹 (2)/index.html" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/config/ip_config.html" />
+        <option value="$PROJECT_DIR$/app/api/controller/StatisticsController.php" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/qyq/reset_pwd.html" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/statistics/w_details.html" />
+        <option value="$PROJECT_DIR$/app/admin/controller/StatisticsController.php" />
+        <option value="$PROJECT_DIR$/app/admin/controller/QyqController.php" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/public/headers.html" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/journal/list_info.html" />
+        <option value="D:/configList.json" />
+        <option value="$PROJECT_DIR$/app/admin/controller/ConfigController.php" />
+        <option value="$PROJECT_DIR$/data/config/database.php" />
+        <option value="$PROJECT_DIR$/app/api/controller/JournalController.php" />
+        <option value="$PROJECT_DIR$/vendor/thinkcmf/cmf/src/common.php" />
+        <option value="$PROJECT_DIR$/app/api/controller/QyqController.php" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/qyq/qyq_list.html" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/qyq/add_user.html" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/main/index.html" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/index/index.html" />
+        <option value="$PROJECT_DIR$/public/themes/default/demo/index.html" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/login.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/electrolinux/phpquery" />
+      <path value="$PROJECT_DIR$/vendor/mindplay/annotations" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-orm" />
+      <path value="$PROJECT_DIR$/vendor/topthink/framework" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-captcha" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-helper" />
+      <path value="$PROJECT_DIR$/vendor/zircote/swagger-php" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-trace" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/thinkcmf/cmf-api" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/thinkcmf/think-view" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/thinkcmf/think-template" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/thinkcmf/cmf-app" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/thinkcmf/cmf-install" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/thinkcmf/cmf-extend" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/thinkcmf/cmf" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/thinkcmf/cmf-route" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem-cached-adapter" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="146" />
+    <option name="y" value="64" />
+    <option name="width" value="1712" />
+    <option name="height" value="760" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cmf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmf" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmf" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmf" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="admin_simpleboot3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmf" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="admin_simpleboot3" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dtz/cmf" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\1212421\cmf\cmf\public\themes\admin_simpleboot3\admin\qyq" />
+      <recent name="D:\phpstudy_pro\WWW\1212421\cmf\cmf\public\themes\admin_simpleboot3\admin\statistics" />
+      <recent name="D:\phpstudy_pro\WWW\1212421\cmf\cmf\public\themes\admin_simpleboot3\admin\config" />
+      <recent name="D:\phpstudy_pro\WWW\1212421\cmf\cmf\app\admin\controller" />
+      <recent name="D:\phpstudy_pro\WWW\ThinkCMF\public\themes\admin_simpleboot3\admin\statistics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\ThinkCMF\data\config" />
+      <recent name="D:\phpstudy_pro\WWW\ThinkCMF\api\demo" />
+      <recent name="D:\phpstudy_pro\WWW\ThinkCMF\api\demo\command" />
+      <recent name="D:\phpstudy_pro\WWW\ThinkCMF\vendor" />
+      <recent name="D:\phpstudy_pro\WWW\ThinkCMF\api\demo\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f2e263a-91b8-48ec-8f31-b47eee8da946" name="Default Changelist" comment="" />
+      <created>1609729862673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609729862673</updated>
+      <workItem from="1609729863795" duration="691000" />
+      <workItem from="1609831294140" duration="9261000" />
+      <workItem from="1609895321195" duration="23377000" />
+      <workItem from="1609983931227" duration="19471000" />
+      <workItem from="1610069552739" duration="21648000" />
+      <workItem from="1610154418921" duration="18541000" />
+      <workItem from="1610328292631" duration="18933000" />
+      <workItem from="1610414386458" duration="6125000" />
+      <workItem from="1610500968349" duration="2604000" />
+      <workItem from="1610510111724" duration="24000" />
+      <workItem from="1610678147100" duration="2550000" />
+      <workItem from="1610690367727" duration="2681000" />
+      <workItem from="1610933063871" duration="8166000" />
+      <workItem from="1610948212273" duration="10274000" />
+      <workItem from="1611019476800" duration="17747000" />
+      <workItem from="1611105408950" duration="4035000" />
+      <workItem from="1611364061864" duration="11012000" />
+      <workItem from="1611538493320" duration="114000" />
+      <workItem from="1611553153164" duration="1941000" />
+      <workItem from="1611711742963" duration="801000" />
+      <workItem from="1611726354593" duration="262000" />
+      <workItem from="1611738905989" duration="2152000" />
+      <workItem from="1611812526450" duration="6498000" />
+      <workItem from="1611882548476" duration="12310000" />
+      <workItem from="1614845169370" duration="1695000" />
+      <workItem from="1614907345806" duration="11557000" />
+      <workItem from="1614992555091" duration="1819000" />
+      <workItem from="1615448935684" duration="2405000" />
+      <workItem from="1615511413125" duration="22000" />
+      <workItem from="1615518850266" duration="12340000" />
+      <workItem from="1615857165356" duration="9774000" />
+      <workItem from="1615945488271" duration="16107000" />
+      <workItem from="1616028330662" duration="3965000" />
+      <workItem from="1616212549579" duration="7619000" />
+      <workItem from="1616379621843" duration="15767000" />
+      <workItem from="1616462141841" duration="4884000" />
+      <workItem from="1616548492780" duration="11722000" />
+      <workItem from="1616644719885" duration="2166000" />
+      <workItem from="1616980445462" duration="380000" />
+      <workItem from="1616987170047" duration="8050000" />
+      <workItem from="1617068856652" duration="3466000" />
+      <workItem from="1617095442947" duration="80000" />
+      <workItem from="1617175399893" duration="9016000" />
+      <workItem from="1617240850948" duration="4200000" />
+      <workItem from="1617328523457" duration="273000" />
+      <workItem from="1617328809514" duration="3309000" />
+      <workItem from="1617347883038" duration="57000" />
+      <workItem from="1617675839671" duration="3174000" />
+      <workItem from="1618564934603" duration="1776000" />
+      <workItem from="1618797313703" duration="9882000" />
+      <workItem from="1618889838994" duration="1339000" />
+      <workItem from="1618904593320" duration="243000" />
+      <workItem from="1618905740180" duration="1234000" />
+      <workItem from="1618967839920" duration="6033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="355572000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="146" y="64" width="1712" height="760" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2433414" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4996535" visible="true" weight="0.2596042" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003465" side_tool="true" visible="true" weight="0.1996805" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/public/plugins/demo/controller/AdminIndexController.php</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/plugins/demo/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2139">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/plugins/demo/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/plugins/demo/command.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/plugins/demo/controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/plugins/demo/controller/ApiIndexController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/plugins/demo/DemoPlugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/qyq/get_uid_bygroup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2363" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/qyq/reset_pwd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="166" column="39" lean-forward="true" selection-start-line="166" selection-start-column="39" selection-end-line="166" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/configList  .json" />
+    <entry file="file://$USER_HOME$/Desktop/StatisticsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="221" column="7" lean-forward="true" selection-start-line="221" selection-start-column="7" selection-end-line="221" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.example.env">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/route.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/statistics/daily_stat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="88" column="16" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/static/js/wind.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33654" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/qyq/add_qyq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/statistics/w_details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="43" column="45" lean-forward="true" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/demo/controller/AdminIndexController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/demo/controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/topthink/think-helper/src/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/config/ip_config.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/public/headers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="49" column="14" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/journal/list_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="188" column="25" lean-forward="true" selection-start-line="188" selection-start-column="25" selection-end-line="188" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/configList (2).json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/configList (3).json" />
+    <entry file="file://D:/configList.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="61" column="10" lean-forward="true" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/controller/JournalController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="e#493#531#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/controller/StatisticsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="363" column="46" lean-forward="true" selection-start-line="363" selection-start-column="46" selection-end-line="363" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/JournalController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="9" column="74" lean-forward="true" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/StatisticsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="218" column="28" selection-start-line="218" selection-start-column="28" selection-end-line="218" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/ConfigController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/thinkcmf/cmf/src/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="2337" column="3" lean-forward="true" selection-start-line="2337" selection-start-column="3" selection-end-line="2337" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/qyq/qyq_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-572">
+          <caret line="213" column="34" lean-forward="true" selection-start-line="213" selection-start-column="34" selection-end-line="213" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/qyq/qyq_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="134" column="20" lean-forward="true" selection-start-line="134" selection-start-column="20" selection-end-line="134" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/controller/QyqController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/qyq/add_user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="61" column="7" lean-forward="true" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/controller/QyqController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="173" column="5" lean-forward="true" selection-start-line="173" selection-start-column="5" selection-end-line="173" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/main/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="183" column="6" lean-forward="true" selection-start-line="183" selection-start-column="6" selection-end-line="183" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/public/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/default/public/base.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/default/portal/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/thinkcmf/cmf/src/App.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/services.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/thinkcmf/cmf-app/src/portal/controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/default/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/router.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/themes/admin_simpleboot3/admin/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

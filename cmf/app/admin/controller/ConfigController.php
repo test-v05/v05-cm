@@ -19,25 +19,25 @@ class ConfigController extends AdminBaseController
     public function ip_config()
     {
         $url = db('config')->where('name','up_url')->value('value');
-        $file =  file_get_contents('D:/configList.json') ?? file_get_contents($url);
+        $file =  file_get_contents($url);
         $data_info = decrypt_info($file);
-       if(is_array($data_info)){
-           $httpList = $data_info['httpList']['ips'];
-           $loginList = $data_info['loginList']['ips'];
-           $hotList =   $data_info['hotList']['ips'];
-           $this->assign('httpList',$httpList);
-           $this->assign('loginList',$loginList);
-           $this->assign('hotList',$hotList);
-       }
-       return $this->fetch();
+        if(is_array($data_info)){
+            $httpList = $data_info['httpList']['ips'];
+            $loginList = $data_info['loginList']['ips'];
+            $hotList =   $data_info['hotList']['ips'];
+            $this->assign('httpList',$httpList);
+            $this->assign('loginList',$loginList);
+            $this->assign('hotList',$hotList);
+        }
+        return $this->fetch();
     }
-/**
- * 修改IP
-*/
+    /**
+     * 修改IP
+     */
     public function saves()
     {
         $url = db('config')->where('name','up_url')->value('value');
-        $file =  file_get_contents('D:/configList.json') ?? file_get_contents($url);
+        $file =  file_get_contents($url);
         $data_info = decrypt_info($file);
         if(input('post.')) {
             $parm = input('post.');
@@ -53,9 +53,9 @@ class ConfigController extends AdminBaseController
             }
         }
     }
-/**
- * 导出json
-*/
+    /**
+     * 导出json
+     */
     public function excels()
     {
         $filepath =  '/configList.json';
@@ -72,7 +72,7 @@ class ConfigController extends AdminBaseController
 
     /**
      * 托管状态
-    */
+     */
     public function auto_play_off(){
         $info = db('t_resources_configs','mysql1')->where('msgKey','auto_play_off_servers')->value('msgValue');
         if($info!==false) {

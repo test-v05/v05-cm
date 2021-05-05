@@ -2339,9 +2339,16 @@ function str_to_arr($string)
 
 function checkSign($params_info) {
     ksort($params_info);
-    $params_infoss = http_build_query($params_info);
-    return md5("&".$params_infoss."&key=2zqQTpC7ueLYGW1y");
+    $str = "";
+    foreach ($params_info as $k => $v) {
+        $str .= $k . "=" .$v . "&amp;";
+    }
+    $str = htmlspecialchars_decode($str);
+    $str = "&".$str."key=xw2qRjtbesoMPcd8";
+    $strs = md5($str);
+    return $strs;
 }
+
 
 /**
  */

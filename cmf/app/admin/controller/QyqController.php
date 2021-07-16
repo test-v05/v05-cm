@@ -152,9 +152,12 @@ class QyqController extends AdminBaseController
         }
     }
 
-
     public function add_user() {
         return $this->fetch();
     }
 
+    public function ip_config()
+    {
+        return $this->fetch();
+    }
 }

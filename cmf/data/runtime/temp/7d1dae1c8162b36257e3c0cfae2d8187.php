@@ -1,4 +1,4 @@
-<?php /*a:1:{s:47:"themes/admin_simpleboot3/admin\index\index.html";i:1618971641;}*/ ?>
+<?php /*a:1:{s:47:"themes/admin_simpleboot3/admin\index\index.html";i:1626417429;}*/ ?>
 <!DOCTYPE html>
 <html lang="zh_CN" style="overflow: hidden;">
 <head>

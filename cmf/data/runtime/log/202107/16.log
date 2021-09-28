@@ -1,0 +1,5 @@
+[2021-07-16T15:43:06+08:00][error] [8]unserialize(): Error at offset 0 of 39 bytes
+[2021-07-16T15:43:06+08:00][error] [10501]SQLSTATE[HY000] [1049] Unknown database 'thinkcms'
+[2021-07-16T15:45:04+08:00][error] [8]unserialize(): Error at offset 0 of 39 bytes
+[2021-07-16T15:45:04+08:00][error] [8]unserialize(): Error at offset 0 of 205 bytes
+[2021-07-16T15:45:06+08:00][error] [8]unserialize(): Error at offset 0 of 39 bytes

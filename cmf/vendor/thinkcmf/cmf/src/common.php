@@ -2346,7 +2346,7 @@ function checkSign($params_info) {
         $str .= $k . "=" .$v . "&amp;";
     }
     $str = htmlspecialchars_decode($str);
-    $str = "&".$str."key=xw2qRjtbesoMPcd8";
+    $str = "&".$str."key=2zqQTpC7ueLYGW1y";
     $strs = md5($str);
     return $strs;
 }
